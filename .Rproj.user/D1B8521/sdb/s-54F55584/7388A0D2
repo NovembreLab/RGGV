@@ -1,0 +1,18 @@
+{
+    "contents" : "Study_ID        Family_ID       Mat._ID Pat._ID Sex     Pheno.\nVC32                    AA      0       0       M       -9\nVC23                    EA      0       0       M       -9\nVC24                    EA      0       0       F       -9\nVC56                    EA      0       0       M       -9\nVC57                    AA      0       0       M       -9\nVC21                    EA      0       0       F       -9\nVC35                    AA      0       0       M       -9\nVC45                    AA      0       0       F       -9\nVC46                    AA      0       0       M       -9\nVC47                    AA      0       0       M       -9\nVC49                    EA      0       0       M       -9\nVC16                    EA      0       0       M       -9\nVC18                    AA      0       0       M       -9\nVC20                    AA      0       0       F       -9\nVC25                    EA      0       0       F       -9\nVC26                    AA      0       0       M       -9\nVC22                    EA      0       0       M       -9\nVC50                    EA      0       0       M       -9\nVC27                    AA      0       0       F       -9\nVC34                    EA      0       0       M       -9\nVC29                    EA      0       0       F       -9\nVC54                    EA      0       0       F       -9\nVC58                    EA      0       0       M       -9\nVC12                    AA      0       0       M       -9\nVC14                    AA      0       0       F       -9\nVC55                    AA      0       0       F       -9\nVC51                    EA      0       0       F       -9\nVC52                    AA      0       0       F       -9\nVC53                    EA      0       0       M       -9\nVC42                    AA      0       0       F       -9\nVC18                    EA      0       0       M       -9\nVC35                    AA      0       0       M       -9\n",
+    "created" : 1446753625040.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1894541279",
+    "id" : "7388A0D2",
+    "lastKnownWriteTime" : 1446753687,
+    "path" : "C:/Users/dwitonsk/Dropbox/vitamin_D_files/lmem/genos.samps",
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "type" : "text"
+}

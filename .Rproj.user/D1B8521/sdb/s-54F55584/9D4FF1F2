@@ -1,0 +1,17 @@
+{
+    "contents" : "# (uncomment to add a dependency)\n dependencies:\n  - name: leaflet\n    version: 0.7.2\n    src: htmlwidgets/lib/leaflet\n    script: leaflet.js\n    stylesheet: leaflet.css\n  - name: d3\n    version: 3\n    src: htmlwidgets/lib/d3\n    script: d3.min.js\n  - name: markercluster\n    version: 0.999\n    src: htmlwidgets/lib/markercluster\n    script: leaflet.markercluster.js\n    stylesheet: MarkerCluster.css\n  - name: clusterpie\n    version: 0.999\n    src: htmlwidgets/lib/clusterpie\n    stylesheet: hgdp_pie_charts.css\n\n",
+    "created" : 1444940330412.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3991123652",
+    "id" : "9D4FF1F2",
+    "lastKnownWriteTime" : 1444962312,
+    "path" : "C:/Users/dwitonsk/Dropbox/DataViz/RGGV/inst/htmlwidgets/clusterpie4widget.yaml",
+    "project_path" : "inst/htmlwidgets/clusterpie4widget.yaml",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "yaml"
+}

@@ -1,0 +1,17 @@
+{
+    "contents" : "#map {\n  width:1200px;\n  height:800px;\n}\n#legend {\n  position: absolute;\n  top: 3px;\n  left: 780px;\n  margin: 10px;\n  padding: 5px;\n  border-radius: 5px;\n  z-index: 100;\n  font-size: 1em;\n  font-family: sans-serif;\n  width: 115px;\n  background: rgba(255,255,255,0.6);\n}\n.legendheading {\n  position: relative;\n  height: 25px;\n  padding: 5px 2px 0px 2px;\n  font-size: larger;\n  font-weight: bold;\n}\n.legenditem {\n  padding: 2px;\n  margin-bottom: 2px;\n}\n\n/*Marker clusters*/\n.marker-cluster-pie g.arc{\n  fill-opacity: 0.4;\n}\n.marker-cluster-pie-label {\n  font-size: 14px;\n  font-weight: bold;\n  font-family: sans-serif;\n}\n\n/*Markers*/\n.marker {\n  width: 18px;\n  height: 18px;\n  border-width: 2px;\n  border-radius:10px;\n  margin-top: -10px;\n  margin-left: -10px;\n  border-style: solid;\n  fill: #CCC;\n  stroke: #444;\n  background: #CCC;\n  border-color: #444;\n}\n.marker div{\n  text-align: center;\n  font-size: 4px;\n  font-weight: bold;\n  font-family: sans-serif;\n}\n\n/*marker categories*/\n.allele-Ancestral{\n  fill: #88F;\n  stroke: #88F;\n  background: #88F;\n  border-color: #800;\n  opacity: 0.8;\n}\n.allele-Derived{\n  fill: #F88;\n  stroke: #F88;\n  background: #F88;\n  border-color: #F00;\n  opacity: 0.8;\n}\n\n\n.allele-State1{\n  fill: #8F8;\n  stroke: #8F8;\n  background: #8F8;\n  border-color: #800;\n}\n.allele-State2{\n  fill: #FF8;\n  stroke: #FF8;\n  background: #FF8;\n  border-color: #F00;\n}\n\n.category-3{\n  fill: #FF3;\n  stroke: #D80;\n  background: #FF3;\n  border-color: #D80;\n}\n.category-4{\n  fill: #BFB;\n  stroke: #070;\n  background: #BFB;\n  border-color: #070;\n}\n.category-5{\n  fill: #9DF;\n  stroke: #007;\n  background: #9DF;\n  border-color: #007;\n}\n.category-6{\n  fill: #CCC;\n  stroke: #444;\n  background: #CCC;\n  border-color: #444;\n}\n\n/*marker icons*/\n.icon-Ancestral{\n  background-image: url('dna-helix-16.png');\n  background-repeat: no-repeat;\n  background-position: 0px 1px;\n}\n.icon-Derived{\n  background-image: url('dna-helix-16.png');\n  background-repeat: no-repeat;\n  background-position: 2px 0px;\n}\n\n.icon-State1{\n  background-image: url('dna-helix-16.png');\n  background-repeat: no-repeat;\n  background-position: 0px 1px;\n}\n.icon-State2{\n  background-image: url('dna-helix-16.png');\n  background-repeat: no-repeat;\n  background-position: 2px 0px;\n}\n/*Popup*/\n.map-popup span.heading {\n  display: block;\n  font-size: 1.2em;\n  font-weight: bold;\n}\n.map-popup span.attribute {\n  display: block;\n}\n.map-popup span.label {\n  font-weight: bold;\n}\n\n",
+    "created" : 1445273793736.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "218013604",
+    "id" : "942D6B9",
+    "lastKnownWriteTime" : 1445360796,
+    "path" : "C:/Users/dwitonsk/Dropbox/DataViz/RGGV/inst/htmlwidgets/lib/clusterpie/hgdp_pie_charts.css",
+    "project_path" : "inst/htmlwidgets/lib/clusterpie/hgdp_pie_charts.css",
+    "properties" : {
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "type" : "css"
+}

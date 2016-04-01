@@ -1,0 +1,17 @@
+{
+    "contents" : "Package: RGGV\nType: Maps Genetic Variants from GGV\nTitle: Maps Genetic Variants from GGV\nVersion: 2015-10-19\nDate: 2015-10-19\nAuthor: David Witonsky\nMaintainer: David Witonsky <wito@uchicago.edu>\nDescription: More about what it does (maybe more than one line)\nLicense: GPL-3\nLazyData: TRUE\nImports:\n  RJSONIO,\n  htmlwidgets,\n  Rsamtools,\n  GenomicRanges,\n  IRanges,\n  biomaRt\n",
+    "created" : 1444938647698.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1502167502",
+    "id" : "6686669E",
+    "lastKnownWriteTime" : 1445308015,
+    "path" : "C:/Users/dwitonsk/Dropbox/DataViz/RGGV/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "dcf"
+}

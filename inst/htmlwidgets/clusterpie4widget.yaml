@@ -1,0 +1,21 @@
+# (uncomment to add a dependency)
+ dependencies:
+  - name: leaflet
+    version: 0.7.2
+    src: htmlwidgets/lib/leaflet
+    script: leaflet.js
+    stylesheet: leaflet.css
+  - name: d3
+    version: 3
+    src: htmlwidgets/lib/d3
+    script: d3.min.js
+  - name: markercluster
+    version: 0.999
+    src: htmlwidgets/lib/markercluster
+    script: leaflet.markercluster.js
+    stylesheet: MarkerCluster.css
+  - name: clusterpie
+    version: 0.999
+    src: htmlwidgets/lib/clusterpie
+    stylesheet: hgdp_pie_charts.css
+

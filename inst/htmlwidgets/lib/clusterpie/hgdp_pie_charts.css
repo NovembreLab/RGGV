@@ -1,0 +1,150 @@
+#map {
+  width:1200px;
+  height:800px;
+}
+#legend {
+  position: absolute;
+  top: 3px;
+  left: 780px;
+  margin: 10px;
+  padding: 5px;
+  border-radius: 5px;
+  z-index: 100;
+  font-size: 1em;
+  font-family: sans-serif;
+  width: 115px;
+  background: rgba(255,255,255,0.6);
+}
+.legendheading {
+  position: relative;
+  height: 25px;
+  padding: 5px 2px 0px 2px;
+  font-size: larger;
+  font-weight: bold;
+}
+.legenditem {
+  padding: 2px;
+  margin-bottom: 2px;
+}
+
+/*Marker clusters*/
+.marker-cluster-pie g.arc{
+  fill-opacity: 0.4;
+}
+.marker-cluster-pie-label {
+  font-size: 14px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+/*Markers*/
+.marker {
+  width: 18px;
+  height: 18px;
+  border-width: 2px;
+  border-radius:10px;
+  margin-top: -10px;
+  margin-left: -10px;
+  border-style: solid;
+  fill: #CCC;
+  stroke: #444;
+  background: #CCC;
+  border-color: #444;
+}
+.marker div{
+  text-align: center;
+  font-size: 4px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+/*marker categories*/
+.allele-Ancestral{
+  fill: #88F;
+  stroke: #88F;
+  background: #88F;
+  border-color: #800;
+  opacity: 0.8;
+}
+.allele-Derived{
+  fill: #F88;
+  stroke: #F88;
+  background: #F88;
+  border-color: #F00;
+  opacity: 0.8;
+}
+
+
+.allele-State1{
+  fill: #8F8;
+  stroke: #8F8;
+  background: #8F8;
+  border-color: #800;
+}
+.allele-State2{
+  fill: #FF8;
+  stroke: #FF8;
+  background: #FF8;
+  border-color: #F00;
+}
+
+.category-3{
+  fill: #FF3;
+  stroke: #D80;
+  background: #FF3;
+  border-color: #D80;
+}
+.category-4{
+  fill: #BFB;
+  stroke: #070;
+  background: #BFB;
+  border-color: #070;
+}
+.category-5{
+  fill: #9DF;
+  stroke: #007;
+  background: #9DF;
+  border-color: #007;
+}
+.category-6{
+  fill: #CCC;
+  stroke: #444;
+  background: #CCC;
+  border-color: #444;
+}
+
+/*marker icons*/
+.icon-Ancestral{
+  background-image: url('dna-helix-16.png');
+  background-repeat: no-repeat;
+  background-position: 0px 1px;
+}
+.icon-Derived{
+  background-image: url('dna-helix-16.png');
+  background-repeat: no-repeat;
+  background-position: 2px 0px;
+}
+
+.icon-State1{
+  background-image: url('dna-helix-16.png');
+  background-repeat: no-repeat;
+  background-position: 0px 1px;
+}
+.icon-State2{
+  background-image: url('dna-helix-16.png');
+  background-repeat: no-repeat;
+  background-position: 2px 0px;
+}
+/*Popup*/
+.map-popup span.heading {
+  display: block;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+.map-popup span.attribute {
+  display: block;
+}
+.map-popup span.label {
+  font-weight: bold;
+}
+

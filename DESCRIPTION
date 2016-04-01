@@ -1,0 +1,17 @@
+Package: RGGV
+Type: Maps Genetic Variants from GGV
+Title: Maps Genetic Variants from GGV
+Version: 2015-10-19
+Date: 2015-10-19
+Author: David Witonsky
+Maintainer: David Witonsky <wito@uchicago.edu>
+Description: More about what it does (maybe more than one line)
+License: GPL-3
+LazyData: TRUE
+Imports:
+  RJSONIO,
+  htmlwidgets,
+  Rsamtools,
+  GenomicRanges,
+  IRanges,
+  biomaRt
