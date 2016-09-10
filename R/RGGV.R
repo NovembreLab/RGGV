@@ -19,13 +19,16 @@
 #' @param chr Chromosome (numeric)
 #' @param pos Physical position (numeric)
 #' @param db Database "hgdp" (default) or "1kgenomes"
-#' @param table (boolean)
+#' @param output "map" or "table" (string)
 #' @examples
 #' ggv("rs1834640")
 #' ggv()
 #' ggv(, 6, 130099903, db = "1kgenomes")
 #' @export ggv
-ggv <- function(rs = NULL, chr = NULL, pos = NULL, db = "hgdp", table=FALSE) {
+ggv <- function(rs = NULL, chr = NULL, pos = NULL, db = "hgdp", output = "map") {
+  table = FALSE
+  if (output == "table")
+    table = TRUE
   if (db == "1kgenomes" || db == "1000genomes")
     db = "1000genomes_phase3"
   api = 'http://popgen.uchicago.edu/ggv_api/freq_table?data="'
@@ -145,7 +148,8 @@ parseSNPID <- function(snpid) {
 
 getSNP <- function(the.snp = "rs12913832", chr=NULL, pos = NULL, build = "B37") {
   message(paste0("looking up SNP ", the.snp, " in build ", build))
-  snp.db <- biomaRt::useEnsembl(biomart = "snp", dataset = "hsapiens_snp", GRCh = 37)
+  ####CHANGE BACK TO GRCh=37
+  snp.db <- biomaRt::useEnsembl(biomart = "snp", dataset = "hsapiens_snp", GRCh=37)
   nt.biomart <- biomaRt::getBM(c("refsnp_id", "allele", "chr_name", "chrom_start",
                         "chrom_strand", "allele_1"),
                       filters="snp_filter", values = the.snp, mart = snp.db)
@@ -273,7 +277,7 @@ getSamples <- function(refresh = FALSE) {
       p <- sapply(XML::getNodeSet(res[[1]], path), function(x){XML::xmlValue(x)})
       samp_pops <- cbind(samp_pops, p)
     }
-    colnames(samp_pops) <- paste("pop_level", 1:plevels, sep = "") 
+    colnames(samp_pops) <- paste("pop_level", 1:plevels, sep = "")
     rownames(samp_pops) <- samp_ids
     attr(getSamples, "sampAttr") <<- samp_pops
   }
@@ -292,6 +296,7 @@ getCoords <- function() {
   return(coords)
 }
 
+#' @export testVCF
 testVCF <- function(snpid = NULL, chr, pos) {
   snp <- NULL
   if (!is.null(snpid))
@@ -314,14 +319,14 @@ testVCF <- function(snpid = NULL, chr, pos) {
   r2=gsub("0/1","1",r2)
   r2=gsub("0/0","0",r2)
   r2=gsub("./.","NA",r2)
-  
+
   vcf=read.csv(textConnection(r2[[1]]),sep="\t",header=F)
-  
+
   colnames(vcf) = unlist(parseVCFHeader(tbx))
   attr(getVCF, "vcfAttr") <<- vcf
   s=getSamples()
   genos=vcf[1,rownames(s)]
-  
+
   k=data.frame(s, t(genos), stringsAsFactors = TRUE)
   cols = colnames(k)
   cols[length(cols)]= "Genotype"
@@ -379,7 +384,7 @@ buildGeojson <- function(samp_data, coords, snpid) {
     c <- c(lon, lat)
     gen <- samp_data[i, "Genotype"]
     if (is.na(gen)) next
-    if (gen == 2) 
+    if (gen == 2)
       al["REF"] <- al["ALT"]
     else if (gen == 0)
       al["ALT"] <- al["REF"]
@@ -398,10 +403,10 @@ freqTable <- function(samp_data, level = 1) {
   if (level > getPopLevels()) {
     stop(paste0("The level exceeds the number of population levels (", getPopLevels(),")."), call. = FALSE)
   }
-  lev <- paste("pop_level", level, sep = "") 
+  lev <- paste("pop_level", level, sep = "")
   num <- tapply(samp_data$Genotype, samp_data[[lev]], sum, na.rm = TRUE)
   denom <- tapply(samp_data$Genotype, samp_data[[lev]], function(x){return(2*sum(!is.na(x)))})
   return (num/denom)
 }
 
-#testVCF("rs12913832")
+
