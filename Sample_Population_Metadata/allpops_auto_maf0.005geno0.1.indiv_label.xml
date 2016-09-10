@@ -1,0 +1,5631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Indiv_label name="allpops_auto_maf0.005geno0.1"   version="1" varfile="allpops_auto_maf0.005geno0.1.vcf.gz" pop_geo="allpops_auto_maf0.005geno0.1.pop_geo" >
+  <Sample>
+    <Label>HGDP01405</Label>
+    <Population level="1">BantuN</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation>Bantu</AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01406</Label>
+    <Population level="1">BantuN</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation>Bantu</AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01408</Label>
+    <Population level="1">BantuN</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation>Bantu</AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01411</Label>
+    <Population level="1">BantuN</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation>Bantu</AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01412</Label>
+    <Population level="1">BantuN</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation>Bantu</AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01414</Label>
+    <Population level="1">BantuN</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation>Bantu</AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01415</Label>
+    <Population level="1">BantuN</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation>Bantu</AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01416</Label>
+    <Population level="1">BantuN</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation>Bantu</AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01417</Label>
+    <Population level="1">BantuN</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation>Bantu</AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01418</Label>
+    <Population level="1">BantuN</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation>Bantu</AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01419</Label>
+    <Population level="1">BantuN</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation>Bantu</AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00454</Label>
+    <Population level="1">BiakaPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00455</Label>
+    <Population level="1">BiakaPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00457</Label>
+    <Population level="1">BiakaPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00458</Label>
+    <Population level="1">BiakaPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00459</Label>
+    <Population level="1">BiakaPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00460</Label>
+    <Population level="1">BiakaPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00461</Label>
+    <Population level="1">BiakaPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00464</Label>
+    <Population level="1">BiakaPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00465</Label>
+    <Population level="1">BiakaPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00466</Label>
+    <Population level="1">BiakaPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00469</Label>
+    <Population level="1">BiakaPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00470</Label>
+    <Population level="1">BiakaPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00472</Label>
+    <Population level="1">BiakaPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00473</Label>
+    <Population level="1">BiakaPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00475</Label>
+    <Population level="1">BiakaPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00479</Label>
+    <Population level="1">BiakaPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00985</Label>
+    <Population level="1">BiakaPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00986</Label>
+    <Population level="1">BiakaPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01086</Label>
+    <Population level="1">BiakaPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01087</Label>
+    <Population level="1">BiakaPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01090</Label>
+    <Population level="1">BiakaPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01094</Label>
+    <Population level="1">BiakaPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00904</Label>
+    <Population level="1">Mandenka</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00905</Label>
+    <Population level="1">Mandenka</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00906</Label>
+    <Population level="1">Mandenka</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00907</Label>
+    <Population level="1">Mandenka</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00908</Label>
+    <Population level="1">Mandenka</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00909</Label>
+    <Population level="1">Mandenka</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00910</Label>
+    <Population level="1">Mandenka</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00911</Label>
+    <Population level="1">Mandenka</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00912</Label>
+    <Population level="1">Mandenka</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00913</Label>
+    <Population level="1">Mandenka</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00914</Label>
+    <Population level="1">Mandenka</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00915</Label>
+    <Population level="1">Mandenka</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00917</Label>
+    <Population level="1">Mandenka</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00918</Label>
+    <Population level="1">Mandenka</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01199</Label>
+    <Population level="1">Mandenka</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01200</Label>
+    <Population level="1">Mandenka</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01201</Label>
+    <Population level="1">Mandenka</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01202</Label>
+    <Population level="1">Mandenka</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01283</Label>
+    <Population level="1">Mandenka</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01284</Label>
+    <Population level="1">Mandenka</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01285</Label>
+    <Population level="1">Mandenka</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01286</Label>
+    <Population level="1">Mandenka</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00449</Label>
+    <Population level="1">MbutiPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00450</Label>
+    <Population level="1">MbutiPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00456</Label>
+    <Population level="1">MbutiPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00462</Label>
+    <Population level="1">MbutiPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00463</Label>
+    <Population level="1">MbutiPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00467</Label>
+    <Population level="1">MbutiPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00471</Label>
+    <Population level="1">MbutiPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00474</Label>
+    <Population level="1">MbutiPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00476</Label>
+    <Population level="1">MbutiPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00478</Label>
+    <Population level="1">MbutiPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00982</Label>
+    <Population level="1">MbutiPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00984</Label>
+    <Population level="1">MbutiPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01081</Label>
+    <Population level="1">MbutiPygmies</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00991</Label>
+    <Population level="1">San</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00992</Label>
+    <Population level="1">San</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01029</Label>
+    <Population level="1">San</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01032</Label>
+    <Population level="1">San</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01036</Label>
+    <Population level="1">San</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00920</Label>
+    <Population level="1">Yoruba</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00924</Label>
+    <Population level="1">Yoruba</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00925</Label>
+    <Population level="1">Yoruba</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00926</Label>
+    <Population level="1">Yoruba</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00927</Label>
+    <Population level="1">Yoruba</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00928</Label>
+    <Population level="1">Yoruba</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00929</Label>
+    <Population level="1">Yoruba</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00930</Label>
+    <Population level="1">Yoruba</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00931</Label>
+    <Population level="1">Yoruba</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00932</Label>
+    <Population level="1">Yoruba</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00933</Label>
+    <Population level="1">Yoruba</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00934</Label>
+    <Population level="1">Yoruba</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00935</Label>
+    <Population level="1">Yoruba</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00936</Label>
+    <Population level="1">Yoruba</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00937</Label>
+    <Population level="1">Yoruba</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00938</Label>
+    <Population level="1">Yoruba</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00939</Label>
+    <Population level="1">Yoruba</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00940</Label>
+    <Population level="1">Yoruba</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00941</Label>
+    <Population level="1">Yoruba</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00942</Label>
+    <Population level="1">Yoruba</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00943</Label>
+    <Population level="1">Yoruba</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00993</Label>
+    <Population level="1">BantuS</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation>Bantu</AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00994</Label>
+    <Population level="1">BantuS</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation>Bantu</AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01028</Label>
+    <Population level="1">BantuS</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation>Bantu</AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01030</Label>
+    <Population level="1">BantuS</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation>Bantu</AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01031</Label>
+    <Population level="1">BantuS</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation>Bantu</AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01033</Label>
+    <Population level="1">BantuS</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation>Bantu</AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01034</Label>
+    <Population level="1">BantuS</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation>Bantu</AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01035</Label>
+    <Population level="1">BantuS</Population>
+    <Population level="2">Africa</Population>
+    <AltPopulation>Bantu</AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01381</Label>
+    <Population level="1">Adygei</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01382</Label>
+    <Population level="1">Adygei</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01383</Label>
+    <Population level="1">Adygei</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01384</Label>
+    <Population level="1">Adygei</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01385</Label>
+    <Population level="1">Adygei</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01386</Label>
+    <Population level="1">Adygei</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01387</Label>
+    <Population level="1">Adygei</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01388</Label>
+    <Population level="1">Adygei</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01396</Label>
+    <Population level="1">Adygei</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01397</Label>
+    <Population level="1">Adygei</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01398</Label>
+    <Population level="1">Adygei</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01399</Label>
+    <Population level="1">Adygei</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01400</Label>
+    <Population level="1">Adygei</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01401</Label>
+    <Population level="1">Adygei</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01402</Label>
+    <Population level="1">Adygei</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01403</Label>
+    <Population level="1">Adygei</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01404</Label>
+    <Population level="1">Adygei</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01357</Label>
+    <Population level="1">Basque</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01358</Label>
+    <Population level="1">Basque</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01359</Label>
+    <Population level="1">Basque</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01360</Label>
+    <Population level="1">Basque</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01361</Label>
+    <Population level="1">Basque</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01362</Label>
+    <Population level="1">Basque</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01363</Label>
+    <Population level="1">Basque</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01364</Label>
+    <Population level="1">Basque</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01365</Label>
+    <Population level="1">Basque</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01366</Label>
+    <Population level="1">Basque</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01367</Label>
+    <Population level="1">Basque</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01368</Label>
+    <Population level="1">Basque</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01369</Label>
+    <Population level="1">Basque</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01370</Label>
+    <Population level="1">Basque</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01371</Label>
+    <Population level="1">Basque</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01372</Label>
+    <Population level="1">Basque</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01373</Label>
+    <Population level="1">Basque</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01374</Label>
+    <Population level="1">Basque</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01375</Label>
+    <Population level="1">Basque</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01376</Label>
+    <Population level="1">Basque</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01377</Label>
+    <Population level="1">Basque</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01378</Label>
+    <Population level="1">Basque</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01379</Label>
+    <Population level="1">Basque</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01380</Label>
+    <Population level="1">Basque</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01147</Label>
+    <Population level="1">Bergamo</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01151</Label>
+    <Population level="1">Bergamo</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01152</Label>
+    <Population level="1">Bergamo</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01153</Label>
+    <Population level="1">Bergamo</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01155</Label>
+    <Population level="1">Bergamo</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01156</Label>
+    <Population level="1">Bergamo</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01157</Label>
+    <Population level="1">Bergamo</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01171</Label>
+    <Population level="1">Bergamo</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01172</Label>
+    <Population level="1">Bergamo</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01173</Label>
+    <Population level="1">Bergamo</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01174</Label>
+    <Population level="1">Bergamo</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01177</Label>
+    <Population level="1">Bergamo</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00511</Label>
+    <Population level="1">French</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00512</Label>
+    <Population level="1">French</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00513</Label>
+    <Population level="1">French</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00514</Label>
+    <Population level="1">French</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00515</Label>
+    <Population level="1">French</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00516</Label>
+    <Population level="1">French</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00517</Label>
+    <Population level="1">French</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00518</Label>
+    <Population level="1">French</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00519</Label>
+    <Population level="1">French</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00520</Label>
+    <Population level="1">French</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00521</Label>
+    <Population level="1">French</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00522</Label>
+    <Population level="1">French</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00523</Label>
+    <Population level="1">French</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00524</Label>
+    <Population level="1">French</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00525</Label>
+    <Population level="1">French</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00526</Label>
+    <Population level="1">French</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00527</Label>
+    <Population level="1">French</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00528</Label>
+    <Population level="1">French</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00529</Label>
+    <Population level="1">French</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00530</Label>
+    <Population level="1">French</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00531</Label>
+    <Population level="1">French</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00533</Label>
+    <Population level="1">French</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00534</Label>
+    <Population level="1">French</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00535</Label>
+    <Population level="1">French</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00536</Label>
+    <Population level="1">French</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00537</Label>
+    <Population level="1">French</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00538</Label>
+    <Population level="1">French</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00539</Label>
+    <Population level="1">French</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00794</Label>
+    <Population level="1">Orcadian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00795</Label>
+    <Population level="1">Orcadian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00796</Label>
+    <Population level="1">Orcadian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00797</Label>
+    <Population level="1">Orcadian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00798</Label>
+    <Population level="1">Orcadian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00799</Label>
+    <Population level="1">Orcadian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00800</Label>
+    <Population level="1">Orcadian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00802</Label>
+    <Population level="1">Orcadian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00803</Label>
+    <Population level="1">Orcadian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00804</Label>
+    <Population level="1">Orcadian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00805</Label>
+    <Population level="1">Orcadian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00806</Label>
+    <Population level="1">Orcadian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00807</Label>
+    <Population level="1">Orcadian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00808</Label>
+    <Population level="1">Orcadian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00810</Label>
+    <Population level="1">Orcadian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00879</Label>
+    <Population level="1">Russian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00880</Label>
+    <Population level="1">Russian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00881</Label>
+    <Population level="1">Russian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00882</Label>
+    <Population level="1">Russian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00883</Label>
+    <Population level="1">Russian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00884</Label>
+    <Population level="1">Russian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00885</Label>
+    <Population level="1">Russian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00886</Label>
+    <Population level="1">Russian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00887</Label>
+    <Population level="1">Russian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00888</Label>
+    <Population level="1">Russian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00889</Label>
+    <Population level="1">Russian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00890</Label>
+    <Population level="1">Russian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00891</Label>
+    <Population level="1">Russian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00892</Label>
+    <Population level="1">Russian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00893</Label>
+    <Population level="1">Russian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00894</Label>
+    <Population level="1">Russian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00895</Label>
+    <Population level="1">Russian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00896</Label>
+    <Population level="1">Russian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00897</Label>
+    <Population level="1">Russian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00898</Label>
+    <Population level="1">Russian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00899</Label>
+    <Population level="1">Russian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00900</Label>
+    <Population level="1">Russian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00901</Label>
+    <Population level="1">Russian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00902</Label>
+    <Population level="1">Russian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00903</Label>
+    <Population level="1">Russian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00665</Label>
+    <Population level="1">Sardinian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00666</Label>
+    <Population level="1">Sardinian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00667</Label>
+    <Population level="1">Sardinian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00668</Label>
+    <Population level="1">Sardinian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00669</Label>
+    <Population level="1">Sardinian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00670</Label>
+    <Population level="1">Sardinian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00671</Label>
+    <Population level="1">Sardinian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00672</Label>
+    <Population level="1">Sardinian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00673</Label>
+    <Population level="1">Sardinian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00674</Label>
+    <Population level="1">Sardinian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01062</Label>
+    <Population level="1">Sardinian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01063</Label>
+    <Population level="1">Sardinian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01064</Label>
+    <Population level="1">Sardinian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01065</Label>
+    <Population level="1">Sardinian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01066</Label>
+    <Population level="1">Sardinian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01067</Label>
+    <Population level="1">Sardinian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01068</Label>
+    <Population level="1">Sardinian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01069</Label>
+    <Population level="1">Sardinian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01070</Label>
+    <Population level="1">Sardinian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01071</Label>
+    <Population level="1">Sardinian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01072</Label>
+    <Population level="1">Sardinian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01073</Label>
+    <Population level="1">Sardinian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01074</Label>
+    <Population level="1">Sardinian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01075</Label>
+    <Population level="1">Sardinian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01076</Label>
+    <Population level="1">Sardinian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01077</Label>
+    <Population level="1">Sardinian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01078</Label>
+    <Population level="1">Sardinian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01079</Label>
+    <Population level="1">Sardinian</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01162</Label>
+    <Population level="1">Tuscan</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01163</Label>
+    <Population level="1">Tuscan</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01164</Label>
+    <Population level="1">Tuscan</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01166</Label>
+    <Population level="1">Tuscan</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01167</Label>
+    <Population level="1">Tuscan</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01168</Label>
+    <Population level="1">Tuscan</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01169</Label>
+    <Population level="1">Tuscan</Population>
+    <Population level="2">Europe</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00607</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00608</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00609</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00610</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00611</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00612</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00613</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00614</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00615</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00616</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00618</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00619</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00620</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00622</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00623</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00624</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00625</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00626</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00627</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00628</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00629</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00630</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00631</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00632</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00634</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00635</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00636</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00637</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00638</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00639</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00640</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00641</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00642</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00643</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00644</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00645</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00646</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00647</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00648</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00649</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00650</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00651</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00653</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00654</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00701</Label>
+    <Population level="1">Bedouin</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00557</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00558</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00559</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00560</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00561</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00562</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00563</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00564</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00565</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00566</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00567</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00568</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00569</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00571</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00572</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00573</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00574</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00575</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00576</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00577</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00578</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00579</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00580</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00581</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00582</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00583</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00584</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00586</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00587</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00588</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00590</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00591</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00594</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00595</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00597</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00598</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00599</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00600</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00601</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00602</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00604</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00606</Label>
+    <Population level="1">Druze</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01253</Label>
+    <Population level="1">Mozabite</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01254</Label>
+    <Population level="1">Mozabite</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01255</Label>
+    <Population level="1">Mozabite</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01256</Label>
+    <Population level="1">Mozabite</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01257</Label>
+    <Population level="1">Mozabite</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01258</Label>
+    <Population level="1">Mozabite</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01259</Label>
+    <Population level="1">Mozabite</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01260</Label>
+    <Population level="1">Mozabite</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01261</Label>
+    <Population level="1">Mozabite</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01262</Label>
+    <Population level="1">Mozabite</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01263</Label>
+    <Population level="1">Mozabite</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01264</Label>
+    <Population level="1">Mozabite</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01265</Label>
+    <Population level="1">Mozabite</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01266</Label>
+    <Population level="1">Mozabite</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01267</Label>
+    <Population level="1">Mozabite</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01268</Label>
+    <Population level="1">Mozabite</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01269</Label>
+    <Population level="1">Mozabite</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01272</Label>
+    <Population level="1">Mozabite</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01273</Label>
+    <Population level="1">Mozabite</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01274</Label>
+    <Population level="1">Mozabite</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01275</Label>
+    <Population level="1">Mozabite</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01276</Label>
+    <Population level="1">Mozabite</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01277</Label>
+    <Population level="1">Mozabite</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01278</Label>
+    <Population level="1">Mozabite</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01279</Label>
+    <Population level="1">Mozabite</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01280</Label>
+    <Population level="1">Mozabite</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01282</Label>
+    <Population level="1">Mozabite</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00675</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00676</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00677</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00678</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00679</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00680</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00682</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00683</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00684</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00685</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00686</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00687</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00688</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00689</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00690</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00691</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00692</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00693</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00694</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00696</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00697</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00698</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00699</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00700</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00722</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00723</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00724</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00725</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00726</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00727</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00729</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00730</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00731</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00732</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00733</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00734</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00735</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00736</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00737</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00738</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00739</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00740</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00741</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00744</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00745</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00746</Label>
+    <Population level="1">Palestinian</Population>
+    <Population level="2">Near_East/N_Africa</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00052</Label>
+    <Population level="1">Balochi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00054</Label>
+    <Population level="1">Balochi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00056</Label>
+    <Population level="1">Balochi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00057</Label>
+    <Population level="1">Balochi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00058</Label>
+    <Population level="1">Balochi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00060</Label>
+    <Population level="1">Balochi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00062</Label>
+    <Population level="1">Balochi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00064</Label>
+    <Population level="1">Balochi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00066</Label>
+    <Population level="1">Balochi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00068</Label>
+    <Population level="1">Balochi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00070</Label>
+    <Population level="1">Balochi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00072</Label>
+    <Population level="1">Balochi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00074</Label>
+    <Population level="1">Balochi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00076</Label>
+    <Population level="1">Balochi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00078</Label>
+    <Population level="1">Balochi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00080</Label>
+    <Population level="1">Balochi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00082</Label>
+    <Population level="1">Balochi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00086</Label>
+    <Population level="1">Balochi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00088</Label>
+    <Population level="1">Balochi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00090</Label>
+    <Population level="1">Balochi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00092</Label>
+    <Population level="1">Balochi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00094</Label>
+    <Population level="1">Balochi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00096</Label>
+    <Population level="1">Balochi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00098</Label>
+    <Population level="1">Balochi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00001</Label>
+    <Population level="1">Brahui</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00003</Label>
+    <Population level="1">Brahui</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00005</Label>
+    <Population level="1">Brahui</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00007</Label>
+    <Population level="1">Brahui</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00009</Label>
+    <Population level="1">Brahui</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00011</Label>
+    <Population level="1">Brahui</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00013</Label>
+    <Population level="1">Brahui</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00015</Label>
+    <Population level="1">Brahui</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00017</Label>
+    <Population level="1">Brahui</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00019</Label>
+    <Population level="1">Brahui</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00021</Label>
+    <Population level="1">Brahui</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00023</Label>
+    <Population level="1">Brahui</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00025</Label>
+    <Population level="1">Brahui</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00027</Label>
+    <Population level="1">Brahui</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00029</Label>
+    <Population level="1">Brahui</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00031</Label>
+    <Population level="1">Brahui</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00033</Label>
+    <Population level="1">Brahui</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00035</Label>
+    <Population level="1">Brahui</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00037</Label>
+    <Population level="1">Brahui</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00039</Label>
+    <Population level="1">Brahui</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00041</Label>
+    <Population level="1">Brahui</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00043</Label>
+    <Population level="1">Brahui</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00045</Label>
+    <Population level="1">Brahui</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00047</Label>
+    <Population level="1">Brahui</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00049</Label>
+    <Population level="1">Brahui</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00336</Label>
+    <Population level="1">Burusho</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00338</Label>
+    <Population level="1">Burusho</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00341</Label>
+    <Population level="1">Burusho</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00346</Label>
+    <Population level="1">Burusho</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00351</Label>
+    <Population level="1">Burusho</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00356</Label>
+    <Population level="1">Burusho</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00359</Label>
+    <Population level="1">Burusho</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00364</Label>
+    <Population level="1">Burusho</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00371</Label>
+    <Population level="1">Burusho</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00372</Label>
+    <Population level="1">Burusho</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00376</Label>
+    <Population level="1">Burusho</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00382</Label>
+    <Population level="1">Burusho</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00388</Label>
+    <Population level="1">Burusho</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00392</Label>
+    <Population level="1">Burusho</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00397</Label>
+    <Population level="1">Burusho</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00402</Label>
+    <Population level="1">Burusho</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00407</Label>
+    <Population level="1">Burusho</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00412</Label>
+    <Population level="1">Burusho</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00417</Label>
+    <Population level="1">Burusho</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00423</Label>
+    <Population level="1">Burusho</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00428</Label>
+    <Population level="1">Burusho</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00433</Label>
+    <Population level="1">Burusho</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00438</Label>
+    <Population level="1">Burusho</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00444</Label>
+    <Population level="1">Burusho</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00445</Label>
+    <Population level="1">Burusho</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00099</Label>
+    <Population level="1">Hazara</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00100</Label>
+    <Population level="1">Hazara</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00102</Label>
+    <Population level="1">Hazara</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00103</Label>
+    <Population level="1">Hazara</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00104</Label>
+    <Population level="1">Hazara</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00105</Label>
+    <Population level="1">Hazara</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00106</Label>
+    <Population level="1">Hazara</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00108</Label>
+    <Population level="1">Hazara</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00109</Label>
+    <Population level="1">Hazara</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00110</Label>
+    <Population level="1">Hazara</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00112</Label>
+    <Population level="1">Hazara</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00115</Label>
+    <Population level="1">Hazara</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00116</Label>
+    <Population level="1">Hazara</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00118</Label>
+    <Population level="1">Hazara</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00119</Label>
+    <Population level="1">Hazara</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00120</Label>
+    <Population level="1">Hazara</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00121</Label>
+    <Population level="1">Hazara</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00122</Label>
+    <Population level="1">Hazara</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00124</Label>
+    <Population level="1">Hazara</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00125</Label>
+    <Population level="1">Hazara</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00127</Label>
+    <Population level="1">Hazara</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00129</Label>
+    <Population level="1">Hazara</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00267</Label>
+    <Population level="1">Kalash</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00274</Label>
+    <Population level="1">Kalash</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00277</Label>
+    <Population level="1">Kalash</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00279</Label>
+    <Population level="1">Kalash</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00281</Label>
+    <Population level="1">Kalash</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00285</Label>
+    <Population level="1">Kalash</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00286</Label>
+    <Population level="1">Kalash</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00288</Label>
+    <Population level="1">Kalash</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00290</Label>
+    <Population level="1">Kalash</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00298</Label>
+    <Population level="1">Kalash</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00302</Label>
+    <Population level="1">Kalash</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00304</Label>
+    <Population level="1">Kalash</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00307</Label>
+    <Population level="1">Kalash</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00309</Label>
+    <Population level="1">Kalash</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00311</Label>
+    <Population level="1">Kalash</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00313</Label>
+    <Population level="1">Kalash</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00315</Label>
+    <Population level="1">Kalash</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00319</Label>
+    <Population level="1">Kalash</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00323</Label>
+    <Population level="1">Kalash</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00326</Label>
+    <Population level="1">Kalash</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00328</Label>
+    <Population level="1">Kalash</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00330</Label>
+    <Population level="1">Kalash</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00333</Label>
+    <Population level="1">Kalash</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00130</Label>
+    <Population level="1">Makrani</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00131</Label>
+    <Population level="1">Makrani</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00133</Label>
+    <Population level="1">Makrani</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00134</Label>
+    <Population level="1">Makrani</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00135</Label>
+    <Population level="1">Makrani</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00136</Label>
+    <Population level="1">Makrani</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00137</Label>
+    <Population level="1">Makrani</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00139</Label>
+    <Population level="1">Makrani</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00140</Label>
+    <Population level="1">Makrani</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00141</Label>
+    <Population level="1">Makrani</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00143</Label>
+    <Population level="1">Makrani</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00144</Label>
+    <Population level="1">Makrani</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00145</Label>
+    <Population level="1">Makrani</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00146</Label>
+    <Population level="1">Makrani</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00148</Label>
+    <Population level="1">Makrani</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00149</Label>
+    <Population level="1">Makrani</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00150</Label>
+    <Population level="1">Makrani</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00151</Label>
+    <Population level="1">Makrani</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00153</Label>
+    <Population level="1">Makrani</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00154</Label>
+    <Population level="1">Makrani</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00155</Label>
+    <Population level="1">Makrani</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00157</Label>
+    <Population level="1">Makrani</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00158</Label>
+    <Population level="1">Makrani</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00160</Label>
+    <Population level="1">Makrani</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00161</Label>
+    <Population level="1">Makrani</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00213</Label>
+    <Population level="1">Pathan</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00214</Label>
+    <Population level="1">Pathan</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00216</Label>
+    <Population level="1">Pathan</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00218</Label>
+    <Population level="1">Pathan</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00222</Label>
+    <Population level="1">Pathan</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00224</Label>
+    <Population level="1">Pathan</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00226</Label>
+    <Population level="1">Pathan</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00228</Label>
+    <Population level="1">Pathan</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00230</Label>
+    <Population level="1">Pathan</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00232</Label>
+    <Population level="1">Pathan</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00234</Label>
+    <Population level="1">Pathan</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00237</Label>
+    <Population level="1">Pathan</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00239</Label>
+    <Population level="1">Pathan</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00241</Label>
+    <Population level="1">Pathan</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00243</Label>
+    <Population level="1">Pathan</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00244</Label>
+    <Population level="1">Pathan</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00251</Label>
+    <Population level="1">Pathan</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00254</Label>
+    <Population level="1">Pathan</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00258</Label>
+    <Population level="1">Pathan</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00259</Label>
+    <Population level="1">Pathan</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00262</Label>
+    <Population level="1">Pathan</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00264</Label>
+    <Population level="1">Pathan</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00163</Label>
+    <Population level="1">Sindhi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00165</Label>
+    <Population level="1">Sindhi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00167</Label>
+    <Population level="1">Sindhi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00169</Label>
+    <Population level="1">Sindhi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00171</Label>
+    <Population level="1">Sindhi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00173</Label>
+    <Population level="1">Sindhi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00175</Label>
+    <Population level="1">Sindhi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00177</Label>
+    <Population level="1">Sindhi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00179</Label>
+    <Population level="1">Sindhi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00181</Label>
+    <Population level="1">Sindhi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00183</Label>
+    <Population level="1">Sindhi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00185</Label>
+    <Population level="1">Sindhi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00187</Label>
+    <Population level="1">Sindhi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00189</Label>
+    <Population level="1">Sindhi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00191</Label>
+    <Population level="1">Sindhi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00192</Label>
+    <Population level="1">Sindhi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00195</Label>
+    <Population level="1">Sindhi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00197</Label>
+    <Population level="1">Sindhi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00199</Label>
+    <Population level="1">Sindhi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00201</Label>
+    <Population level="1">Sindhi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00205</Label>
+    <Population level="1">Sindhi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00206</Label>
+    <Population level="1">Sindhi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00208</Label>
+    <Population level="1">Sindhi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00210</Label>
+    <Population level="1">Sindhi</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01297</Label>
+    <Population level="1">Uygur</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01298</Label>
+    <Population level="1">Uygur</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01299</Label>
+    <Population level="1">Uygur</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01300</Label>
+    <Population level="1">Uygur</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01301</Label>
+    <Population level="1">Uygur</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01302</Label>
+    <Population level="1">Uygur</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01303</Label>
+    <Population level="1">Uygur</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01304</Label>
+    <Population level="1">Uygur</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01305</Label>
+    <Population level="1">Uygur</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01306</Label>
+    <Population level="1">Uygur</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01243</Label>
+    <Population level="1">Xibo</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01244</Label>
+    <Population level="1">Xibo</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01245</Label>
+    <Population level="1">Xibo</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01246</Label>
+    <Population level="1">Xibo</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01247</Label>
+    <Population level="1">Xibo</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01248</Label>
+    <Population level="1">Xibo</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01249</Label>
+    <Population level="1">Xibo</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01250</Label>
+    <Population level="1">Xibo</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01251</Label>
+    <Population level="1">Xibo</Population>
+    <Population level="2">Central_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00711</Label>
+    <Population level="1">Cambodian</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00712</Label>
+    <Population level="1">Cambodian</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00713</Label>
+    <Population level="1">Cambodian</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00714</Label>
+    <Population level="1">Cambodian</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00715</Label>
+    <Population level="1">Cambodian</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00716</Label>
+    <Population level="1">Cambodian</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00717</Label>
+    <Population level="1">Cambodian</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00719</Label>
+    <Population level="1">Cambodian</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00720</Label>
+    <Population level="1">Cambodian</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00721</Label>
+    <Population level="1">Cambodian</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01307</Label>
+    <Population level="1">Dai</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01308</Label>
+    <Population level="1">Dai</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01309</Label>
+    <Population level="1">Dai</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01310</Label>
+    <Population level="1">Dai</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01311</Label>
+    <Population level="1">Dai</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01312</Label>
+    <Population level="1">Dai</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01313</Label>
+    <Population level="1">Dai</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01314</Label>
+    <Population level="1">Dai</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01315</Label>
+    <Population level="1">Dai</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01316</Label>
+    <Population level="1">Dai</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01213</Label>
+    <Population level="1">Daur</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01214</Label>
+    <Population level="1">Daur</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01215</Label>
+    <Population level="1">Daur</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01216</Label>
+    <Population level="1">Daur</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01217</Label>
+    <Population level="1">Daur</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01218</Label>
+    <Population level="1">Daur</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01220</Label>
+    <Population level="1">Daur</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01221</Label>
+    <Population level="1">Daur</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01222</Label>
+    <Population level="1">Daur</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00774</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00775</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00776</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00777</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00778</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00779</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00780</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00781</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00782</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00783</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00784</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00785</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00786</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00811</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00812</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00813</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00814</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00815</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00817</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00818</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00819</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00820</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00821</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00822</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00971</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00972</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00973</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00974</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00975</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00976</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00977</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01021</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01023</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01024</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01287</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01288</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01289</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01290</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01291</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01292</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01293</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01294</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01295</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01296</Label>
+    <Population level="1">Han</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01234</Label>
+    <Population level="1">Hezhen</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01235</Label>
+    <Population level="1">Hezhen</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01236</Label>
+    <Population level="1">Hezhen</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01237</Label>
+    <Population level="1">Hezhen</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01238</Label>
+    <Population level="1">Hezhen</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01239</Label>
+    <Population level="1">Hezhen</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01240</Label>
+    <Population level="1">Hezhen</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01241</Label>
+    <Population level="1">Hezhen</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01242</Label>
+    <Population level="1">Hezhen</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00747</Label>
+    <Population level="1">Japanese</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00748</Label>
+    <Population level="1">Japanese</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00749</Label>
+    <Population level="1">Japanese</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00750</Label>
+    <Population level="1">Japanese</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00751</Label>
+    <Population level="1">Japanese</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00752</Label>
+    <Population level="1">Japanese</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00753</Label>
+    <Population level="1">Japanese</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00755</Label>
+    <Population level="1">Japanese</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00756</Label>
+    <Population level="1">Japanese</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00757</Label>
+    <Population level="1">Japanese</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00758</Label>
+    <Population level="1">Japanese</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00759</Label>
+    <Population level="1">Japanese</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00760</Label>
+    <Population level="1">Japanese</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00761</Label>
+    <Population level="1">Japanese</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00762</Label>
+    <Population level="1">Japanese</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00763</Label>
+    <Population level="1">Japanese</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00764</Label>
+    <Population level="1">Japanese</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00765</Label>
+    <Population level="1">Japanese</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00766</Label>
+    <Population level="1">Japanese</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00767</Label>
+    <Population level="1">Japanese</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00768</Label>
+    <Population level="1">Japanese</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00769</Label>
+    <Population level="1">Japanese</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00771</Label>
+    <Population level="1">Japanese</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00772</Label>
+    <Population level="1">Japanese</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00773</Label>
+    <Population level="1">Japanese</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00790</Label>
+    <Population level="1">Japanese</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00791</Label>
+    <Population level="1">Japanese</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00828</Label>
+    <Population level="1">Japanese</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01317</Label>
+    <Population level="1">Lahu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01318</Label>
+    <Population level="1">Lahu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01319</Label>
+    <Population level="1">Lahu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01320</Label>
+    <Population level="1">Lahu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01321</Label>
+    <Population level="1">Lahu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01322</Label>
+    <Population level="1">Lahu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01323</Label>
+    <Population level="1">Lahu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01326</Label>
+    <Population level="1">Lahu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01189</Label>
+    <Population level="1">Miaozu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01190</Label>
+    <Population level="1">Miaozu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01191</Label>
+    <Population level="1">Miaozu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01192</Label>
+    <Population level="1">Miaozu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01193</Label>
+    <Population level="1">Miaozu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01194</Label>
+    <Population level="1">Miaozu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01195</Label>
+    <Population level="1">Miaozu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01196</Label>
+    <Population level="1">Miaozu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01197</Label>
+    <Population level="1">Miaozu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01198</Label>
+    <Population level="1">Miaozu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01223</Label>
+    <Population level="1">Mongola</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01224</Label>
+    <Population level="1">Mongola</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01225</Label>
+    <Population level="1">Mongola</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01226</Label>
+    <Population level="1">Mongola</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01227</Label>
+    <Population level="1">Mongola</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01228</Label>
+    <Population level="1">Mongola</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01229</Label>
+    <Population level="1">Mongola</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01230</Label>
+    <Population level="1">Mongola</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01231</Label>
+    <Population level="1">Mongola</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01232</Label>
+    <Population level="1">Mongola</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01337</Label>
+    <Population level="1">Naxi</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01338</Label>
+    <Population level="1">Naxi</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01339</Label>
+    <Population level="1">Naxi</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01340</Label>
+    <Population level="1">Naxi</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01341</Label>
+    <Population level="1">Naxi</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01342</Label>
+    <Population level="1">Naxi</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01345</Label>
+    <Population level="1">Naxi</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01346</Label>
+    <Population level="1">Naxi</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01203</Label>
+    <Population level="1">Oroqen</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01204</Label>
+    <Population level="1">Oroqen</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01205</Label>
+    <Population level="1">Oroqen</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01206</Label>
+    <Population level="1">Oroqen</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01207</Label>
+    <Population level="1">Oroqen</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01208</Label>
+    <Population level="1">Oroqen</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01209</Label>
+    <Population level="1">Oroqen</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01211</Label>
+    <Population level="1">Oroqen</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01212</Label>
+    <Population level="1">Oroqen</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01327</Label>
+    <Population level="1">She</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01328</Label>
+    <Population level="1">She</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01329</Label>
+    <Population level="1">She</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01330</Label>
+    <Population level="1">She</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01331</Label>
+    <Population level="1">She</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01332</Label>
+    <Population level="1">She</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01333</Label>
+    <Population level="1">She</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01334</Label>
+    <Population level="1">She</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01335</Label>
+    <Population level="1">She</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01336</Label>
+    <Population level="1">She</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01347</Label>
+    <Population level="1">Tu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01348</Label>
+    <Population level="1">Tu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01349</Label>
+    <Population level="1">Tu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01350</Label>
+    <Population level="1">Tu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01351</Label>
+    <Population level="1">Tu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01352</Label>
+    <Population level="1">Tu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01353</Label>
+    <Population level="1">Tu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01354</Label>
+    <Population level="1">Tu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01355</Label>
+    <Population level="1">Tu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01356</Label>
+    <Population level="1">Tu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01095</Label>
+    <Population level="1">Tujia</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01096</Label>
+    <Population level="1">Tujia</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01097</Label>
+    <Population level="1">Tujia</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01098</Label>
+    <Population level="1">Tujia</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01099</Label>
+    <Population level="1">Tujia</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01100</Label>
+    <Population level="1">Tujia</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01101</Label>
+    <Population level="1">Tujia</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01102</Label>
+    <Population level="1">Tujia</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01103</Label>
+    <Population level="1">Tujia</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01104</Label>
+    <Population level="1">Tujia</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00945</Label>
+    <Population level="1">Yakut</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00946</Label>
+    <Population level="1">Yakut</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00947</Label>
+    <Population level="1">Yakut</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00948</Label>
+    <Population level="1">Yakut</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00949</Label>
+    <Population level="1">Yakut</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00950</Label>
+    <Population level="1">Yakut</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00951</Label>
+    <Population level="1">Yakut</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00952</Label>
+    <Population level="1">Yakut</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00953</Label>
+    <Population level="1">Yakut</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00954</Label>
+    <Population level="1">Yakut</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00955</Label>
+    <Population level="1">Yakut</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00956</Label>
+    <Population level="1">Yakut</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00957</Label>
+    <Population level="1">Yakut</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00958</Label>
+    <Population level="1">Yakut</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00959</Label>
+    <Population level="1">Yakut</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00960</Label>
+    <Population level="1">Yakut</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00961</Label>
+    <Population level="1">Yakut</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00962</Label>
+    <Population level="1">Yakut</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00963</Label>
+    <Population level="1">Yakut</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00964</Label>
+    <Population level="1">Yakut</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00965</Label>
+    <Population level="1">Yakut</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00966</Label>
+    <Population level="1">Yakut</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00967</Label>
+    <Population level="1">Yakut</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00968</Label>
+    <Population level="1">Yakut</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00969</Label>
+    <Population level="1">Yakut</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01179</Label>
+    <Population level="1">Yizu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01180</Label>
+    <Population level="1">Yizu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01181</Label>
+    <Population level="1">Yizu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01182</Label>
+    <Population level="1">Yizu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01183</Label>
+    <Population level="1">Yizu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01184</Label>
+    <Population level="1">Yizu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01185</Label>
+    <Population level="1">Yizu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01186</Label>
+    <Population level="1">Yizu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01187</Label>
+    <Population level="1">Yizu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01188</Label>
+    <Population level="1">Yizu</Population>
+    <Population level="2">E_Asia</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00702</Label>
+    <Population level="1">Colombian</Population>
+    <Population level="2">America</Population>
+    <AltPopulation>(Piapoco/Curipaco)</AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00703</Label>
+    <Population level="1">Colombian</Population>
+    <Population level="2">America</Population>
+    <AltPopulation>America</AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00704</Label>
+    <Population level="1">Colombian</Population>
+    <Population level="2">America</Population>
+    <AltPopulation>(Piapoco/Curipaco)</AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00706</Label>
+    <Population level="1">Colombian</Population>
+    <Population level="2">America</Population>
+    <AltPopulation>(Piapoco/Curipaco)</AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00708</Label>
+    <Population level="1">Colombian</Population>
+    <Population level="2">America</Population>
+    <AltPopulation>(Piapoco/Curipaco)</AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00710</Label>
+    <Population level="1">Colombian</Population>
+    <Population level="2">America</Population>
+    <AltPopulation>(Piapoco/Curipaco)</AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00970</Label>
+    <Population level="1">Colombian</Population>
+    <Population level="2">America</Population>
+    <AltPopulation>(Piapoco/Curipaco)</AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00995</Label>
+    <Population level="1">Karitiana</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00998</Label>
+    <Population level="1">Karitiana</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00999</Label>
+    <Population level="1">Karitiana</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01001</Label>
+    <Population level="1">Karitiana</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01003</Label>
+    <Population level="1">Karitiana</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01006</Label>
+    <Population level="1">Karitiana</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01010</Label>
+    <Population level="1">Karitiana</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01012</Label>
+    <Population level="1">Karitiana</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01013</Label>
+    <Population level="1">Karitiana</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01014</Label>
+    <Population level="1">Karitiana</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01015</Label>
+    <Population level="1">Karitiana</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01018</Label>
+    <Population level="1">Karitiana</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01019</Label>
+    <Population level="1">Karitiana</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00854</Label>
+    <Population level="1">Maya</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00855</Label>
+    <Population level="1">Maya</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00856</Label>
+    <Population level="1">Maya</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00857</Label>
+    <Population level="1">Maya</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00858</Label>
+    <Population level="1">Maya</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00859</Label>
+    <Population level="1">Maya</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00860</Label>
+    <Population level="1">Maya</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00861</Label>
+    <Population level="1">Maya</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00862</Label>
+    <Population level="1">Maya</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00863</Label>
+    <Population level="1">Maya</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00864</Label>
+    <Population level="1">Maya</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00865</Label>
+    <Population level="1">Maya</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00868</Label>
+    <Population level="1">Maya</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00869</Label>
+    <Population level="1">Maya</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00870</Label>
+    <Population level="1">Maya</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00871</Label>
+    <Population level="1">Maya</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00872</Label>
+    <Population level="1">Maya</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00873</Label>
+    <Population level="1">Maya</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00875</Label>
+    <Population level="1">Maya</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00876</Label>
+    <Population level="1">Maya</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00877</Label>
+    <Population level="1">Maya</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01037</Label>
+    <Population level="1">Pima</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01041</Label>
+    <Population level="1">Pima</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01043</Label>
+    <Population level="1">Pima</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01044</Label>
+    <Population level="1">Pima</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01047</Label>
+    <Population level="1">Pima</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01050</Label>
+    <Population level="1">Pima</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01051</Label>
+    <Population level="1">Pima</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01053</Label>
+    <Population level="1">Pima</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01055</Label>
+    <Population level="1">Pima</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01056</Label>
+    <Population level="1">Pima</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01057</Label>
+    <Population level="1">Pima</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01058</Label>
+    <Population level="1">Pima</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01059</Label>
+    <Population level="1">Pima</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01060</Label>
+    <Population level="1">Pima</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00832</Label>
+    <Population level="1">Surui</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00837</Label>
+    <Population level="1">Surui</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00838</Label>
+    <Population level="1">Surui</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00843</Label>
+    <Population level="1">Surui</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00845</Label>
+    <Population level="1">Surui</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00846</Label>
+    <Population level="1">Surui</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00849</Label>
+    <Population level="1">Surui</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00852</Label>
+    <Population level="1">Surui</Population>
+    <Population level="2">America</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00491</Label>
+    <Population level="1">Melanesian</Population>
+    <Population level="2">Oceania</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00655</Label>
+    <Population level="1">Melanesian</Population>
+    <Population level="2">Oceania</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00656</Label>
+    <Population level="1">Melanesian</Population>
+    <Population level="2">Oceania</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00661</Label>
+    <Population level="1">Melanesian</Population>
+    <Population level="2">Oceania</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00662</Label>
+    <Population level="1">Melanesian</Population>
+    <Population level="2">Oceania</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00663</Label>
+    <Population level="1">Melanesian</Population>
+    <Population level="2">Oceania</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00664</Label>
+    <Population level="1">Melanesian</Population>
+    <Population level="2">Oceania</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00787</Label>
+    <Population level="1">Melanesian</Population>
+    <Population level="2">Oceania</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00788</Label>
+    <Population level="1">Melanesian</Population>
+    <Population level="2">Oceania</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00979</Label>
+    <Population level="1">Melanesian</Population>
+    <Population level="2">Oceania</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP01027</Label>
+    <Population level="1">Melanesian</Population>
+    <Population level="2">Oceania</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00540</Label>
+    <Population level="1">Papuan</Population>
+    <Population level="2">Oceania</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00541</Label>
+    <Population level="1">Papuan</Population>
+    <Population level="2">Oceania</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00542</Label>
+    <Population level="1">Papuan</Population>
+    <Population level="2">Oceania</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00543</Label>
+    <Population level="1">Papuan</Population>
+    <Population level="2">Oceania</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00544</Label>
+    <Population level="1">Papuan</Population>
+    <Population level="2">Oceania</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00545</Label>
+    <Population level="1">Papuan</Population>
+    <Population level="2">Oceania</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00546</Label>
+    <Population level="1">Papuan</Population>
+    <Population level="2">Oceania</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00547</Label>
+    <Population level="1">Papuan</Population>
+    <Population level="2">Oceania</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00548</Label>
+    <Population level="1">Papuan</Population>
+    <Population level="2">Oceania</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00549</Label>
+    <Population level="1">Papuan</Population>
+    <Population level="2">Oceania</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00550</Label>
+    <Population level="1">Papuan</Population>
+    <Population level="2">Oceania</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00551</Label>
+    <Population level="1">Papuan</Population>
+    <Population level="2">Oceania</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00552</Label>
+    <Population level="1">Papuan</Population>
+    <Population level="2">Oceania</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00553</Label>
+    <Population level="1">Papuan</Population>
+    <Population level="2">Oceania</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00554</Label>
+    <Population level="1">Papuan</Population>
+    <Population level="2">Oceania</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00555</Label>
+    <Population level="1">Papuan</Population>
+    <Population level="2">Oceania</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+  <Sample>
+    <Label>HGDP00556</Label>
+    <Population level="1">Papuan</Population>
+    <Population level="2">Oceania</Population>
+    <AltPopulation></AltPopulation>
+  </Sample>
+</Indiv_label>
