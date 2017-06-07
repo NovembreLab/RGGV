@@ -3,3 +3,12 @@ testSNPs will bring up 2 ggv SNPs (1 hgdp and 1 1kgenome)
 testVCF("rs1834640") will look up imputed hgdp data or give chr and pos
 testVCF will load XML metadata for populations and samples
 
+Read plink files?
+Cannot convert cluster maps to pdf. Are tile maps SGV? What not to do?
+For SNP rs1834640 ancestral and derived are reversed in ggv and testVCF. I believe I still need to look up EPO ancestral states for build hg19
+
+GGV HGDP: Build hg18
+GGV 1kGenomes: Build hg19
+GGV popres:Build hg18
+
+Imputed HGDP: Build hg19

@@ -4,7 +4,7 @@
 \alias{ggv}
 \title{Map variant in GGV}
 \usage{
-ggv(rs = NULL, chr = NULL, pos = NULL, db = "hgdp", table = FALSE)
+ggv(rs = NULL, chr = NULL, pos = NULL, db = "hgdp", output = "map")
 }
 \arguments{
 \item{rs}{A SNP ID (string)}
@@ -15,7 +15,7 @@ ggv(rs = NULL, chr = NULL, pos = NULL, db = "hgdp", table = FALSE)
 
 \item{db}{Database "hgdp" (default) or "1kgenomes"}
 
-\item{table}{(boolean)}
+\item{output}{"map" or "table" (string)}
 }
 \description{
 \code{ggv} takes either a string \code{rs} or a numeric physical position specified by

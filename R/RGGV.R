@@ -25,12 +25,12 @@
 #' ggv()
 #' ggv(, 6, 130099903, db = "1kgenomes")
 #' @export ggv
-ggv <- function(rs = NULL, chr = NULL, pos = NULL, db = "hgdp", output = "map") {
+ggv <- function(rs = NULL, chr = NULL, pos = NULL, db = "HGDP", output = "map") {
   table = FALSE
   if (output == "table")
     table = TRUE
   if (db == "1kgenomes" || db == "1000genomes")
-    db = "1000genomes_phase3"
+    db = "1000genomes"
   api = 'http://popgen.uchicago.edu/ggv_api/freq_table?data="'
   if (!is.null(rs)) {
     api <- paste0(api, db, '_table\"&rsID=', rs)
@@ -171,7 +171,7 @@ flipAllele <- function(allele) {
 }
 
 testggv <- function() {
-  server = "-t 5 popgen.uchicago.edu"
+  server = "popgen.uchicago.edu"
   p=suppressWarnings(system2("ping",server,stderr=F,stdout=F))
   if (p == 0)
     message("GGV server is alive.")
