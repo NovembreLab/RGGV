@@ -81,14 +81,17 @@ json2table <- function(json) {
    freqtable <- NULL
    a1 <- json[[1]]$alleles[1]
   for (i in 1:length(json)) {
-    freq <- as.numeric(json[[i]]$rawfreq)
+    freq <- json[[i]]$rawfreq
     pop <- json[[i]]$pop
-    coord <- as.numeric(json[[i]]$pos)
-    nobs <- as.numeric(json[[i]]$nobs)
+    coord <- unlist(json[[i]]$pos)
+    nobs <- json[[i]]$nobs
     freqtable <- rbind(freqtable, c(pop, coord[2], coord[1], nobs, round(freq[1],4)))
   }
-  freqtable <- data.frame(freqtable)
+  freqtable <- data.frame(freqtable, stringsAsFactors=FALSE)
+
   colnames(freqtable) <- c("Pop", "lat", "long" , "nobs", paste0("freq_",a1))
+  freqtable[,c("lat","long","nobs",paste0("freq_",a1))] <- sapply( freqtable[,c("lat","long","nobs",paste0("freq_",a1))], as.numeric)
+                                                                           
   return(freqtable)
 }
 
