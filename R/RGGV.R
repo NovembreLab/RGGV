@@ -45,13 +45,18 @@ ggv <- function(rs = NULL, chr = NULL, pos = NULL, db = "HGDP", output = "map") 
   }
 
   ggvjson <- try(RJSONIO::fromJSON(api), silent=TRUE)
-  if (inherits(ggvjson, "try-error")) {
+  
+    if (inherits(ggvjson, "try-error")) {
     p = testggv()
     if (p == 0)
       message(paste0("Variant ", rs, " not found in ", toupper(db)))
   }
   else if (table) {
-    tab <- json2table(ggvjson, rs, db)
+    tab <- json2table(ggvjson)
+  
+    if (is.null(rs)) 
+      rs = paste0("chr", ggvjson[[1]]$chrom_pos)
+    message(paste0("found SNP ", rs))
     return(tab)
   }
   else {
@@ -72,16 +77,18 @@ testSNPs <- function() {
 }
 
 
-json2table <- function(json, rs, db) {
+json2table <- function(json) {
    freqtable <- NULL
+   a1 <- json[[1]]$alleles[1]
   for (i in 1:length(json)) {
-    freq <- as.numeric(json[[i]]$freq)
+    freq <- as.numeric(json[[i]]$rawfreq)
     pop <- json[[i]]$pop
     coord <- as.numeric(json[[i]]$pos)
-    freqtable <- rbind(freqtable, list(pop, coord[2], coord[1], round(freq[1],2)))
+    nobs <- as.numeric(json[[i]]$nobs)
+    freqtable <- rbind(freqtable, c(pop, coord[2], coord[1], nobs, round(freq[1],4)))
   }
   freqtable <- data.frame(freqtable)
-  colnames(freqtable) <- c("Pop", "lat", "long" , "freq")
+  colnames(freqtable) <- c("Pop", "lat", "long" , "nobs", paste0("freq_",a1))
   return(freqtable)
 }
 
