@@ -419,4 +419,59 @@ freqTable <- function(samp_data, level = 1) {
   return (num/denom)
 }
 
+seasonAve <- function(var='air.sig995', season="winter", ext='min', hemi="south") {
+  
+  vardata=NCEP.gather(variable=var,level='surface',years.minmax=c(1960,1960),lat.southnorth=c(-70,77),lon.westeast=c(0,360),reanalysis2 = F,status.bar=F,months.minmax=c(1,12))
+  lat=as.numeric(dimnames(vardata)[[1]])
+  latS <- which(lat < 0)
+  latN <- which(lat >= 0)
+  var_S_D=NCEP.aggregate(vardata[latS,,],HOURS = FALSE, fxn=ext)
+  var_S_MAve=NCEP.aggregate(var_S_D,DAYS=FALSE,HOURS=FALSE, fxn="mean")
+  var_S_MAve=NCEP.aggregate(var_S_MAve,DAYS=FALSE,HOURS=FALSE, fxn="mean")
+  var_S_MAve=NCEP.aggregate(var_S_MAve,YEARS=FALSE,DAYS=FALSE,HOURS=FALSE, fxn="mean")
+  
+  var_N_D=NCEP.aggregate(vardata[latN,,],HOURS = FALSE, fxn=ext)
+  var_N_MAve=NCEP.aggregate(var_N_D,DAYS=FALSE,HOURS=FALSE, fxn="mean")
+  var_N_MAve=NCEP.aggregate(var_N_MAve,DAYS=FALSE,HOURS=FALSE, fxn="mean")
+  var_N_MAve=NCEP.aggregate(var_N_MAve,YEARS=FALSE,DAYS=FALSE,HOURS=FALSE, fxn="mean")
+  mnthS=c(6,7,8)
+  mnthN=c(1,2,12)
+  if (season=="summer") {
+    mnthS=c(1,2,12)
+    mnthN=c(6,7,8)
+  }
+  var_S_MAve=as.data.frame.table(NCEP.aggregate(var_S_MAve[,,mnthS],YEARS=FALSE,MONTHS=F,DAYS=FALSE,HOURS = FALSE, fxn="mean"), stringsAsFactors=FALSE)[,c(1,2,4)]
+  var_N_MAve=as.data.frame.table(NCEP.aggregate(var_N_MAve[,,mnthN],YEARS=FALSE,MONTHS=F,DAYS=FALSE,HOURS = FALSE, fxn="mean"), stringsAsFactors=FALSE)[,c(1,2,4)]
+  mat=rbind(var_S_MAve,var_N_MAve)
+  mat[,1]=as.numeric(mat[,1])
+  mat[,2]=as.numeric(mat[,2])
+  colnames(mat)=c("lat","lon","var")
+    envmap(mat)
+}
 
+envmap <- function(mat) {
+  
+  nogrid <- theme(
+    axis.text = element_blank(),
+    axis.line = element_blank(),
+    axis.ticks = element_blank(),
+    panel.border = element_blank(),
+    panel.grid = element_blank(),
+    axis.title = element_blank()
+  )
+
+    world <-map_data('world') %>% data.table()
+  world <- world[region!='Antarctica',]
+  g <- ggplot(world, aes(long,lat)) + 
+    geom_polygon(aes(group=group),fill="white",colour="black",size=0.1) +
+    coord_equal() + 
+    scale_x_continuous(expand=c(0,0)) + 
+    scale_y_continuous(expand=c(0,0)) + theme_bw() + nogrid 
+  
+  mat2 <- mat
+  ml <- which(mat2[,"lon"]>180)
+  mat2[ml,"lon"] <- mat2[ml,"lon"] - 360
+    varname <- colnames(mat2)[3]
+   v <- g + geom_tile(data=mat2,aes(x=lon, y=lat, fill=var),alpha=.75) + scale_fill_gradientn(colours=rev(rainbow(8)))
+  return(v)
+}
