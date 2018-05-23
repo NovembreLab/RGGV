@@ -1,0 +1,89 @@
+---
+title: "Using RGGV to Map Population Allele Frequency Data"
+author: "Davd Witonsky"
+date: "`r Sys.Date()`"
+output: 
+ rmarkdown::html_document:
+  toc: true
+  toc_depth: 2
+ theme: "cerulean"
+ highlight: "tango"
+ number_sections: true
+always_allow_html: yes
+
+vignette: >
+  %\VignetteIndexEntry{RGGV_Usage}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+This short vignette demonstrates how to use the RGGV package to create both interactive cluster maps of SNP allele frequencies and 
+environmental choropleth maps of the type seen in [Hancock et al. 2011](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1001375).
+
+## Creating Interactive HTML Cluster Maps
+
+The `ggv` function is used to create interactive cluster maps. Human population SNP frequency data can be downloaded from one of the inlcuded preset 
+databases of the Geography of Genetic Variants Browser ([GGV](http://popgen.uchicago.edu/ggv/?data=%221000genomes%22&chr=1&pos=222087833): HGDP, POPRES, 1000 Genome) or from a user-provided VCF file (see below).
+
+```{r}
+library(RGGV)
+
+ggv(chr=7, pos=50443603)
+```
+
+<br>
+<br>
+The interactive "cluster" nature of the maps will become apparent once you hover over, zoom in on, or click on one of the pie charts. The `Print` command of many web browsers will allow you to save the map as a PDF file. 
+
+Note: If either allele in the data matches the known ancestral allele, then the colors on the map reflect ancestral and derived states. Otherwise, the states will be colored as State 1 and State 2.
+
+## Creating Choropleth Maps of Allele Frequency Data
+
+To create a dataframe of the population allele frequency data, instead of a cluster map, use the `output="table"` argument of `ggv`. 
+
+```{r}
+freq_table <- ggv(chr=7, pos=50443603, output="table")
+freq_table[1:5,]
+```
+This table shows the name (Pop), geographic coordinates (lat, long), number of observed chromosomes (nobs), and population frequency for each allele.
+
+To add an environmental variable to the table, first download the data from the NCEP-NCAR database. The data sets are large, so this could take a minute or so if downloading the data for the first time.
+```{r}
+grid <- seasonAve()
+```
+
+For a complete list of NCEP-NCAR variables, see the help documentation for the `NCEP.gather` function in the `RNCEP` package.
+
+Using the function `interpvar`, you can then interpolate over this grid to the population coordinates in the `freq_table` dataframe.
+```{r}
+freq_table <- interpvar(grid, freq_table)
+freq_table[1:10,]
+```
+Any number of environmental data columns can be added to the `freq_table` in this manner. 
+
+```{r}
+grid2 <- seasonAve(ext="max")
+freq_table <- interpvar(grid2, freq_table)
+freq_table[1:5,]
+```
+
+To create a choropleth map of the environmental data and add pie charts of the allele frequency data, first 
+use the `envmap` function on the environmental data stored in `grid`. Then use the `addpie` function on the
+frequency data stored in the `freq_table` dataframe.
+
+```{r, fig.width=9}
+envmap(grid)
+addpie(freq_table)
+```
+
+## Accessing User Provided Genetic Data
+
+In addition to accessing the genetic data provided in the RGGV databases, the user can map their own genetic data. To do this
+will require providing the following three files:
+
+1. A tabix indexed and bgzip compressed VCF file of genotype data,
+2. An XML file naming the population or populations to which each sample listed in the VCF file belongs (indiv_label file [example](http://genome-data.cri.uchicago.edu/ahga/allpops_auto_maf0.005geno0.1.indiv_label.xml)),
+3. An XML file giving the geographical coordinates of each population listed in the indiv_label XML file (pop_geo file [example](http://genome-data.cri.uchicago.edu/ahga/allpops_auto_maf0.005geno0.1.pop_geo.xml)).
+
+In the example indiv_label XML file, each sample has two Population tags with two different level attributes. For the HGDP samples in this example, there is a Population tag for each sample's population name (`level=1`) and superpopulation, the name describing the population's region/continent (`level=2`). In a different situation, the different levels could be used to describe a location from which the individual was sampled and a population to which the individual historically belongs. Any number of population levels can be given and the data can then be analyzed/mapped at each level of granularity.
+
+

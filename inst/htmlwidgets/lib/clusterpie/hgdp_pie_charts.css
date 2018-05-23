@@ -1,24 +1,25 @@
+
 #map {
-  width:1200px;
-  height:800px;
+  position: absolute;
+  
+  z-index: 1;
 }
 #legend {
   position: absolute;
-  top: 3px;
-  left: 780px;
+  top: 80%;
+  left: 0%;
   margin: 10px;
   padding: 5px;
   border-radius: 5px;
   z-index: 100;
   font-size: 1em;
   font-family: sans-serif;
-  width: 115px;
   background: rgba(255,255,255,0.6);
 }
 .legendheading {
   position: relative;
-  height: 25px;
-  padding: 5px 2px 0px 2px;
+
+  padding: 1px 2px 0px 2px;
   font-size: larger;
   font-weight: bold;
 }
@@ -75,17 +76,21 @@
 }
 
 
-.allele-State1{
+.allele-State1 {
   fill: #8F8;
   stroke: #8F8;
   background: #8F8;
   border-color: #800;
+  opacity: 0.8;
+  
 }
-.allele-State2{
+.allele-State2 {
   fill: #FF8;
   stroke: #FF8;
   background: #FF8;
   border-color: #F00;
+  opacity: 0.8;
+  
 }
 
 .category-3{

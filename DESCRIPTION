@@ -1,6 +1,6 @@
 Package: RGGV
-Description: RGGV is an R interface for accessing, analyzing and mapping the HGDP and 1kGenomes
-  data used in the Geography of Genetic Variants (GGV) browser. RGGV also has the capability
+Description: RGGV is an R interface for accessing, analyzing and mapping genomic variants 
+  found in the Geography of Genetic Variants (GGV) browser. RGGV also has the capability
   to analyze and map user-provided genetic variation data.
   Genetic variation data in VCF format, along with sample and population metadata in XML format
   (examples provided), are used as input.
@@ -19,4 +19,15 @@ Imports:
   Rsamtools,
   GenomicRanges,
   IRanges,
-  biomaRt
+  biomaRt,
+  maps,
+  mapplots,
+  maptools,
+  RColorBrewer,
+  colorRamps,
+  RNCEP,
+  sp,
+  tgp
+RoxygenNote: 6.0.1
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
